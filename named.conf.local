@@ -15,3 +15,5 @@ zone 0.168.192.in-addp.arpas{
 	type master;
 	file "/etc/bind/db.0.168.192";
 };
+
+// Esto es un comentario
