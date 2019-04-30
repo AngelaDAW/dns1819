@@ -1,4 +1,4 @@
-//
+r//
 // Do any local configuration here
 //
 
@@ -16,4 +16,4 @@ zone 0.168.192.in-addp.arpas{
 	file "/etc/bind/db.0.168.192";
 };
 
-// Esto es un comentario
+// Comentario desde GitHub
